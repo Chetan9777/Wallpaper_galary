@@ -78,3 +78,16 @@
     }
     
 }
+
+.foot4{
+    background-color: #124106;
+    height: 70px;
+    padding-top: 40px;
+}
+.heart{
+    font-size: 1rem;
+    text-align: center;
+    color: #e2e7e6;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
